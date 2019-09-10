@@ -12,9 +12,6 @@ Marcelo.......
 
 Meu nome é:
 Renan.
-<<<<<<< HEAD
-=======
 
 Meu nome é:
 Alexandro
->>>>>>> 119aca3b185568ac8695662cde8a4b9dcd691acc
